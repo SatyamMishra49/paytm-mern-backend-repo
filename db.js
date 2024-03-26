@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://admin123:Satyam1749@projectdb.ahlnsia.mongodb.net/?retryWrites=true&w=majority&appName=projectdb")
+mongoose.connect("")
 
 
 const userSchema = new mongoose.Schema({
